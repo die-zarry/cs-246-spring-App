@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 We are the best in the town, we were agreed on that, we will that one
+=======
+We are the best in the town, we were agreed on that, This appears to be intersting.$$$$$
+This is going to be awesome. We love it. git is wawww! big man
+>>>>>>> 50da11cad1f6e896a9fe152464d3390146b2f755
